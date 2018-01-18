@@ -1,3 +1,3 @@
 # thursday
 
-something else
+something
